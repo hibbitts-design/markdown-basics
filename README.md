@@ -126,4 +126,4 @@ Autoconverted link https://github.com/nodeca/pica
 
 ### Images
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/pusheencat.png)
