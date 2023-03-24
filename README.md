@@ -121,7 +121,7 @@ Right aligned columns
 
 Autoconverted link https://github.com/nodeca/pica
 
-[link to another Markdown file](/another-markdown-file)
+[link to another Markdown file](/another-markdown-file.md)
 
 
 ### Images
