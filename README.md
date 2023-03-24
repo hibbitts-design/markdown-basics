@@ -126,4 +126,4 @@ Autoconverted link https://github.com/nodeca/pica
 
 ### Images
 
-![Octocat]([https://octodex.github.com/images/original.png)
+![Octocat](https://octodex.github.com/images/original.png)
