@@ -78,6 +78,15 @@ Start numbering with offset:
 
 ### Code
 
+To create code blocks you can indent every line of the block by at least four spaces or one tab
+
+    <html>
+      <head>
+      </head>
+    </html>
+ 
+You can also create code blocks without indenting lines, using inline backticks or triple backticks fenced code blocks.
+
 Inline `code`
 
 Block code "fences"
